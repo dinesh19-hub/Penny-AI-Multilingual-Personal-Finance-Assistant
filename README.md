@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💰 Penny AI – Multilingual Personal Finance Assistant
 
-## Getting Started
+Penny AI is a **modern, AI-powered personal finance platform** designed for both **web and mobile**, helping users track expenses, analyze spending habits, and receive intelligent financial insights.
 
-First, run the development server:
+Built with a **premium fintech UI**, real-time data processing, and multilingual support, Penny AI delivers a seamless and smart money management experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- 🔐 Secure Authentication (Login / Register)
+- 📊 Interactive Dashboard with real-time balance tracking
+- 💳 Smart Transaction Management (Add, Filter, Search)
+- 📈 Expense Breakdown with dynamic charts
+- 🤖 AI Financial Assistant for insights & savings tips
+- 🌍 Multilingual Support (user-selectable language)
+- 📑 Monthly & Yearly Reports with export options
+- 🗂️ Custom Category Management
+- 👤 Profile & Settings Management
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🎨 UI/UX Highlights
 
-To learn more about Next.js, take a look at the following resources:
+- Premium fintech design (inspired by modern apps like Stripe & Revolut)
+- Glassmorphism + soft gradient aesthetics
+- Smooth animations and micro-interactions
+- Fully responsive (Web + Mobile)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+**Frontend:**
+- React.js / Next.js
+- React Native / Flutter
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Backend:**
+- Node.js + Express
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Database:**
+- MongoDB / PostgreSQL
+
+**AI Integration:**
+- OpenAI API / Custom AI logic
+
+---
+
+## ⚙️ Key Highlights
+
+- ✅ Fully functional (no static UI)
+- 🔄 Real-time data updates
+- 📱 Cross-platform support
+- 🧠 AI-driven financial insights
+- 🎯 Beginner-friendly experience
+
+---
+
+## 🚀 Goal
+
+To build a **smart, accessible, and visually stunning finance assistant** that helps users make better financial decisions using AI.
+
+---
+
+## 📌 Status
+
+🚧 In Development / Ready for Demo (update as needed)
+
+---
+
+## 👨‍💻 Author
+
+Dinesh Konda
