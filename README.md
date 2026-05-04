@@ -5,6 +5,9 @@ Penny AI is a **modern, AI-powered personal finance platform** designed for both
 Built with a **premium fintech UI**, real-time data processing, and multilingual support, Penny AI delivers a seamless and smart money management experience.
 
 ---
+## Deployment Link
+https://penny-ai-multilingual-personal-financ.netlify.app/
+
 
 ## 🚀 Features
 
